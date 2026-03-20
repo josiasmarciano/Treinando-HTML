@@ -1,2 +1,2 @@
 # Treinando-HTML
-Realizando teste através do curso da OneBitCode
+Aprendendo através do curso da OneBitCode
